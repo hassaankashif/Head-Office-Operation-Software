@@ -1,2 +1,2 @@
 # Head Office Operation Software
- A Java and SQL-based office management application, that tracks inventory, projects, clients, resource usage, and orders.
+An executable EXE file has been created through which the application can be accessed. This file is located in the "EXE Version" folder. Microsoft Visual Studio (IDE for C#) and Microsoft SQL Server Management Studio (IDE for SQL) must first be installed in order to access the application. The SQL Server Connection must also first be setup. This can be done by running "install1.exe" and "install2.exe" under the "Install SQE Server" folder.
